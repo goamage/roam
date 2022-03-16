@@ -1,0 +1,140 @@
+2021-12-17 19:55:15.484293 - C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\
+2021-12-17 19:55:15.484293 - date 30 + days back: Wed Nov 17 19:55:15 2021
+2021-12-17 19:55:15.484293 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 19:55:15.484293 - 
+script tun time: 0:00:00
+2021-12-17 19:56:00.380046 - C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\
+2021-12-17 19:56:00.380046 - date 30 + days back: Wed Nov 17 19:56:00 2021
+2021-12-17 19:56:00.380046 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 19:56:00.380046 - script tun time: 0:00:00
+2021-12-17 19:58:30.745383 - C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\
+2021-12-17 19:58:30.746356 - date 30 + days back: Wed Nov 17 19:58:30 2021
+2021-12-17 19:58:30.747355 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 19:58:30.748355 - script tun time: 0:00:00.002972
+2021-12-17 19:59:43.369914 - date 30 + days back: Wed Nov 17 19:59:43 2021
+2021-12-17 19:59:43.369914 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 19:59:46.370296 - script tun time: 0:00:03.000382
+2021-12-17 20:08:30.559206 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:08:30.561207 - date 30 + days back: Wed Nov 17 20:08:30 2021
+2021-12-17 20:08:30.562206 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:08:53.685951 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:08:53.685951 - date 30 + days back: Wed Nov 17 20:08:53 2021
+2021-12-17 20:08:53.685951 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:08:53.685951 - log file is not older than 30 days
+2021-12-17 20:08:53.701574 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:08:53.701574 - script tun time: 0:00:00.015623
+2021-12-17 20:09:53.391540 - managing data files ..
+2021-12-17 20:09:53.392544 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:09:53.395541 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:09:53.396544 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:09:53.398540 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:09:53.400541 - managing data files done
+2021-12-17 20:09:53.400541 - //////////////////////////////////////////////////
+2021-12-17 20:09:53.401542 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:09:53.403542 - date 30 + days back: Wed Nov 17 20:09:53 2021
+2021-12-17 20:09:53.404541 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:09:53.406541 - log file is not older than 30 days
+2021-12-17 20:09:53.407541 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:09:53.408540 - script tun time: 0:00:00.018000
+2021-12-17 20:10:03.046575 - managing data files ..
+2021-12-17 20:10:03.047571 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:10:03.050573 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:10:03.051572 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:10:03.053571 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:10:03.055576 - managing data files done
+2021-12-17 20:10:03.055576 - //////////////////////////////////////////////////
+2021-12-17 20:10:03.056573 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:10:03.057572 - date 30 + days back: Wed Nov 17 20:10:03 2021
+2021-12-17 20:10:03.058572 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:10:03.059572 - log file is not older than 30 days
+2021-12-17 20:10:03.061572 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:10:03.061572 - //////////////////////////////////////////////////
+2021-12-17 20:10:03.063573 - script tun time: 0:00:00.015999
+2021-12-17 20:10:16.488506 - managing data files ..
+2021-12-17 20:10:16.490507 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:10:16.492507 - .. deleleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:10:16.493507 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:10:16.496508 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:10:16.499506 - managing data files done
+2021-12-17 20:10:16.499506 - //////////////////////////////////////////////////
+2021-12-17 20:10:16.500508 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:10:16.501506 - date 30 + days back: Wed Nov 17 20:10:16 2021
+2021-12-17 20:10:16.502507 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:10:16.503507 - log file is not older than 30 days
+2021-12-17 20:10:16.504507 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:10:16.504507 - //////////////////////////////////////////////////
+2021-12-17 20:10:16.506505 - script run time: 0:00:00.017999
+2021-12-17 20:11:49.761855 - managing data files ..
+2021-12-17 20:11:49.777470 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:11:49.777470 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:11:49.777470 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:11:49.777470 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:11:49.777470 - managing data files done
+2021-12-17 20:11:49.777470 - //////////////////////////////////////////////////
+2021-12-17 20:11:49.777470 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:11:49.777470 - date 30 + days back: Wed Nov 17 20:11:49 2021
+2021-12-17 20:11:49.777470 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:11:49.777470 - log file is not older than 30 days
+2021-12-17 20:11:49.793093 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:11:49.793093 - //////////////////////////////////////////////////
+2021-12-17 20:11:49.793093 - script run time: 0:00:00.031238
+2021-12-17 20:12:40.783061 - managing data files ..
+2021-12-17 20:12:40.783061 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:12:40.783061 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:12:40.783061 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:12:40.798680 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:12:40.798680 - managing data files done
+2021-12-17 20:12:40.798680 - //////////////////////////////////////////////////
+
+2021-12-17 20:12:40.798680 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:12:40.798680 - date 30 + days back: Wed Nov 17 20:12:40 2021
+2021-12-17 20:12:40.798680 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:12:40.798680 - log file is not older than 30 days
+2021-12-17 20:12:40.798680 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:12:40.798680 - //////////////////////////////////////////////////
+
+2021-12-17 20:12:40.798680 - script run time: 0:00:00.015619
+2021-12-17 20:12:56.655915 - managing data files ..
+2021-12-17 20:12:56.658886 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:12:56.659884 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:12:56.660886 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:12:56.663884 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:12:56.665883 - managing data files done
+2021-12-17 20:12:56.665883 - //////////////////////////////////////////////////
+2021-12-17 20:12:56.667885 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:12:56.668884 - date 30 + days back: Wed Nov 17 20:12:56 2021
+2021-12-17 20:12:56.670888 - log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:12:56.671883 - log file is not older than 30 days
+2021-12-17 20:12:56.673884 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:12:56.673884 - //////////////////////////////////////////////////
+2021-12-17 20:12:56.675883 - script run time: 0:00:00.018969
+2021-12-17 20:13:50.294557 - managing data files ..
+2021-12-17 20:13:50.294557 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:13:50.294557 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:13:50.294557 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:13:50.294557 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:13:50.294557 - managing data files done
+2021-12-17 20:13:50.294557 - //////////////////////////////////////////////////
+2021-12-17 20:13:50.310180 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:13:50.310180 - .. date 30 + days back: Wed Nov 17 20:13:50 2021
+2021-12-17 20:13:50.310180 - .. log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:13:50.310180 - .. log file is not older than 30 days
+2021-12-17 20:13:50.310180 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:13:50.310180 - //////////////////////////////////////////////////
+2021-12-17 20:13:50.310180 - script run time: 0:00:00.015623
+2021-12-17 20:13:50.310180 - //////////////////////////////////////////////////
+2021-12-17 20:15:12.914125 - managing data files ..
+2021-12-17 20:15:12.914125 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv ..
+2021-12-17 20:15:12.914125 - .. deleting C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_previous.csv done
+2021-12-17 20:15:12.914125 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv ..
+2021-12-17 20:15:12.914125 - .. renaming C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\output\get-ngavHostData_current.csv done
+2021-12-17 20:15:12.914125 - managing data files done
+2021-12-17 20:15:12.914125 - //////////////////////////////////////////////////
+2021-12-17 20:15:12.914125 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt ..
+2021-12-17 20:15:12.914125 - .. date 30 + days back: Wed Nov 17 20:15:12 2021
+2021-12-17 20:15:12.914125 - .. log file creation date: Fri Dec 17 19:55:15 2021
+2021-12-17 20:15:12.929750 - .. log file is not older than 30 days
+2021-12-17 20:15:12.929750 - checking current log file: C:\0_Space\Silo\GIT\roam\Code\Python\Projects\Learn\log\get-ngavHostData_log.txt done
+2021-12-17 20:15:12.929750 - //////////////////////////////////////////////////
+2021-12-17 20:15:12.929750 - script run time: 0:00:00.015625
+2021-12-17 20:15:12.929750 - //////////////////////////////////////////////////
